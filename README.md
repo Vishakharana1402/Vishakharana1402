@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishakha Rana</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<h5> I'm a Software Developer and a Machine Learning enthusiast. I'm currently a final year B.Tech Computer Science student at KIET Group of Institutions. I am passionate about applying logical strategies and theories practically and developing innovative solutions.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakharana1402&label=Profile%20views&color=0e75b6&style=flat" alt="vishakharana1402" /> </p>
 
